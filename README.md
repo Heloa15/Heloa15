@@ -48,10 +48,7 @@ Projeto Full Stack com frontend e backend separados, desenvolvido para a platafo
 
 ## 📊 Minhas Estatísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heloa15&show_icons=true&theme=github_dark&hide_border=true)
-</div>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Heloa15&show_icons=true&count_private=true&hide_rank=false)
 
 ## 🤝 Conecte-se Comigo
 
@@ -67,4 +64,4 @@ Acompanhe meus repositórios para ver o que estou desenvolvendo atualmente. Cont
 
 ⭐ Se você gostou de algum projeto, considere dar uma estrela! Obrigado por visitar meu perfil! 
 
-
+**Feliz coding! 🎯**
