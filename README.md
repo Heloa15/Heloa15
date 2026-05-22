@@ -46,9 +46,17 @@ Série de atividades envolvendo simuladores de financiamento, investimentos e ou
 ### 🎨 [Persona SESI](https://github.com/Heloa15/backend-personaSESI)
 Projeto Full Stack com frontend e backend separados, desenvolvido para a plataforma Persona SESI.
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heloa15&show_icons=true&theme=radical)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heloa15&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Heloa15)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heloa15&theme=github_dark&hide_border=true&layout=compact)](https://github.com/Heloa15)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Heloa15&theme=dark&hide_border=true)](https://github.com/Heloa15)
+
+</div>
 
 ## 🤝 Conecte-se Comigo
 
