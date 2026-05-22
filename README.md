@@ -52,10 +52,9 @@ Projeto Full Stack com frontend e backend separados, desenvolvido para a platafo
 
 ## 🤝 Conecte-se Comigo
 
-- 📧 Email: [seu-email@exemplo.com]
-- 💼 LinkedIn: [seu-linkedin-url]
-- 🌐 Portfólio: [seu-portfolio-url]
-- 📱 Instagram: [@seu-usuario]
+- 📧 Email: [godoyheloa9@gmail.com]
+- 💼 LinkedIn: [Heloá Godoy]
+- 🌐 Portfólio: [https://canva.link/nrl5r2m95kz34pu]
 
 ## 📝 Últimas Atividades
 
@@ -65,4 +64,4 @@ Acompanhe meus repositórios para ver o que estou desenvolvendo atualmente. Cont
 
 ⭐ Se você gostou de algum projeto, considere dar uma estrela! Obrigado por visitar meu perfil! 
 
-**Feliz coding! 🎯**
+
