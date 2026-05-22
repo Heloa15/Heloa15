@@ -1,4 +1,4 @@
-# Olá! 👋 Bem-vindo ao meu GitHub
+# Olá Dev! 👋 Bem-vindo(a) ao meu GitHub
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções inovadoras. Aqui você encontra meus projetos, atividades acadêmicas e experimentos com diversas tecnologias.
 
