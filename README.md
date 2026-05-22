@@ -49,7 +49,8 @@ Projeto Full Stack com frontend e backend separados, desenvolvido para a platafo
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Heloa15&theme=dark&hide_border=true)](https://github.com/Heloa15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heloa15&show_icons=true&theme=github_dark&hide_border=true)
 </div>
 
 ## 🤝 Conecte-se Comigo
