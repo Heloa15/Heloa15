@@ -4,10 +4,10 @@ Sou um Técnica em desenvolvimento de sistemas com amor por tecnologia, sempre b
 
 ## 🚀 Sobre Mim
 
-- 💻 Desenvolvedor Full Stack em formação
-- 🎓 Estudante focado em aprender novas tecnologias
+- 💻 Desenvolvedora Full Stack em formação
+- 🎓 Estudante focada em aprender novas tecnologias
 - 🌱 Sempre aprendendo e aprimorando minhas habilidades
-- 🎯 Interessado em: Web Development, Backend, Frontend & Mobile
+- 🎯 Interessada em: Web Development, Backend & Frontend 
 
 ## 🛠️ Tecnologias & Ferramentas
 
